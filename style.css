@@ -13,11 +13,23 @@ section{
 
 .home .content {
     text-align: center;
+    background-image: url("https://c.myholidays.com/blog/blog/content/images/2021/01/Places-To-Visit-In-Italy.jpg");
+    height: 700px;
+    width:max-content;
+    justify-content: center;
+    padding: 180px;
+    background-size: cover;
 }
 
 .home .content h3 {
     font-family:cursive;
     text-align: center;
-    color:rgb(77, 142, 142);
+    color:rgb(0, 0, 0);
     text-transform: uppercase;
+}
+
+.home .content p {
+    color: aliceblue;
+    font-weight: 1000;
+    font-size: 20px;
 }
