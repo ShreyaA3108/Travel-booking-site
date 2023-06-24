@@ -1,0 +1,22 @@
+section{
+    padding:2rem 9%;
+}
+
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+   min-height: 80vh;
+}
+
+.home .content {
+    text-align: center;
+}
+
+.home .content h3 {
+    font-family:cursive;
+    text-align: center;
+    color:rgb(77, 142, 142);
+    text-transform: uppercase;
+}
