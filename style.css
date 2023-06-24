@@ -1,7 +1,4 @@
-section{
-    padding:2rem 9%;
-    width: 100%;
-}
+
 
 .home{
     display: flex;
@@ -17,7 +14,7 @@ section{
     height: 700px;
     width:max-content;
     justify-content: center;
-    padding: 180px;
+    padding: 210px;
     background-size: cover;
 }
 
